@@ -1,0 +1,36 @@
+{
+  "users": [
+    {"id": 1, "name": "Amit", "friends": [2, 3, 4], "liked_pages": [101, 102]},
+    {"id": 2, "name": "Priya", "friends": [1, 5, 6], "liked_pages": [102, 103]},
+    {"id": 3, "name": "Rahul", "friends": [1, 7, 8], "liked_pages": [101, 104]},
+    {"id": 4, "name": "Sara", "friends": [1, 9], "liked_pages": [105]},
+    {"id": 5, "name": "Karan", "friends": [2, 10], "liked_pages": [103, 106]},
+    {"id": 6, "name": "Neha", "friends": [2, 11, 12], "liked_pages": [102, 107]},
+    {"id": 7, "name": "Arjun", "friends": [3, 13], "liked_pages": [104, 108]},
+    {"id": 8, "name": "Meera", "friends": [3, 14], "liked_pages": [101, 105]},
+    {"id": 9, "name": "Rohit", "friends": [4, 15], "liked_pages": [105, 109]},
+    {"id": 10, "name": "Pooja", "friends": [5, 16], "liked_pages": [106]},
+    {"id": 11, "name": "Anjali", "friends": [6, 17], "liked_pages": [107, 110]},
+    {"id": 12, "name": "Vikas", "friends": [6, 18], "liked_pages": [102]},
+    {"id": 13, "name": "Deepak", "friends": [7, 19], "liked_pages": [108, 103]},
+    {"id": 14, "name": "Simran", "friends": [8, 20], "liked_pages": [105, 101]},
+    {"id": 15, "name": "Nikhil", "friends": [9], "liked_pages": [109]},
+    {"id": 16, "name": "Sneha", "friends": [10], "liked_pages": [106, 110]},
+    {"id": 17, "name": "Manish", "friends": [11], "liked_pages": [110]},
+    {"id": 18, "name": "Kavya", "friends": [12], "liked_pages": [107]},
+    {"id": 19, "name": "Harsh", "friends": [13], "liked_pages": [103]},
+    {"id": 20, "name": "Riya", "friends": [14], "liked_pages": [101, 105]}
+  ],
+  "pages": [
+    {"id": 101, "name": "Python Developers"},
+    {"id": 102, "name": "Data Science Enthusiasts"},
+    {"id": 103, "name": "AI & ML Community"},
+    {"id": 104, "name": "Web Dev Hub"},
+    {"id": 105, "name": "Frontend Masters"},
+    {"id": 106, "name": "Cyber Security"},
+    {"id": 107, "name": "Cloud Computing"},
+    {"id": 108, "name": "DevOps Engineers"},
+    {"id": 109, "name": "Mobile App Dev"},
+    {"id": 110, "name": "Blockchain Basics"}
+  ]
+}
